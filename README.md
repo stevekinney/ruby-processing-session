@@ -33,6 +33,10 @@ On one hand, it's Ruby and Ruby is great. On the other hand, it's mostly maintai
 
 Because Ruby Processing uses jRuby, you can't use any gems that rely on native C code. Right now, you can safely ignore this fact, but you may eventually run into it somewhere down the road. The other caveat of using jRuby is that each version of Ruby uses it's own set of gems, which means you can't call out to Ruby Processing from inside—let's say—a Rails app without a little bit of dancing. Again, that's not a problem for us at this point. Just sayin'.
 
+If you're really intesested in some of the trials and tribulations of integrating Ruby Processing into a Rails app, [I know a guy who did a talk on that very topic a few years back][jc].
+
+[jc]: http://www.confreaks.com/videos/9-mwrc2010-dynamic-generation-of-images-and-video-with-ruby-processing
+
 There are some other variants out there. [John Resig][resig] of [jQuery][jquery] fame created [Processing.js][pjs] that let's you either work with processing in JavaScript or take your Processing Sketches (in Java) at display them on the web.
 
 [contributors]: https://github.com/jashkenas/ruby-processing/graphs/contributors
