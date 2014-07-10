@@ -446,9 +446,21 @@ Some things to try:
 - Can you change your monster's properties based on keyboard input?
 - Can you make your monsters hair or legs move based on the direction it's moving?
 
+Let's show off our monsters!
+
+Create a pull request on this repository with your monster in the `monsters` directory. Name the file `1406_firstname_lastname.rb`.
+
 ---
 
 ## Appendix
+
+### Further Reading
+
+- [Jumpstart's ProcessArtist Tutorial][jspa]
+- [Jeremy Ashkenas's Learning Processing with Ruby Tutorials][jalp]
+
+[jspa]: http://tutorials.jumpstartlab.com/projects/process_artist.html
+[jalp]: https://github.com/jashkenas/learning-processing-with-ruby
 
 ### An Aside: Alternate Syntax
 
