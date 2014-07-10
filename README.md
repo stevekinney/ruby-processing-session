@@ -456,8 +456,8 @@ Create a pull request on this repository with your monster in the `monsters` dir
 
 ### Further Reading
 
-- [Jumpstart's ProcessArtist Tutorial][jspa]
-- [Jeremy Ashkenas's Learning Processing with Ruby Tutorials][jalp]
+- [Jumpstart's ProcessArtist Tutorial][jspa]: This is an awesome tutorial that takes you through creating a painting app with Ruby Processing. It goes into depth on popping stuff into a queue and parsing longer keyboard commands.
+- [Jeremy Ashkenas's Learning Processing with Ruby][jalp]: This is Jeremy's translation of Daniel Shiffman's *Learning Processing* translated to Ruby.
 
 [jspa]: http://tutorials.jumpstartlab.com/projects/process_artist.html
 [jalp]: https://github.com/jashkenas/learning-processing-with-ruby
