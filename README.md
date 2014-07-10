@@ -26,6 +26,7 @@ It was originally created by a [Jeremy Ashkenas][ja], who also created CoffeeScr
 
 [ja]: https://github.com/jashkenas
 [nyt]: http://nytimes.com
+[mp]: https://github.com/monkstone
 
 There are some advantages and disadvantages to this and it probably makes sense to get them out of the way early. Ruby Processing is a wrapper around Processing, which is a wrapper around Java.
 
