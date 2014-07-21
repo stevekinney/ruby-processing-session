@@ -50,6 +50,8 @@ There are some other variants out there. [John Resig][resig] of [jQuery][jquery]
 
 Install [Processing 2][p2dl].
 
+**Make sure you drag Process.app from `~/Downloads` to `/Applications`.**
+
 [p2dl]: https://processing.org/download/?processing
 
 Install jRuby. You don't *need* jRuby, but then you have to use the `--nojruby` flag every time you want to run a sketch. (jRuby used to come bundled with Ruby Processing, [but that's not the case anymore][faq].)  
