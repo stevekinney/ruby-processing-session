@@ -80,12 +80,6 @@ Make sure you have `wget` installed.
 brew install wget
 ```
 
-Install `jruby-complete` to get the necessary libraries.
-
-``` sh
-install_jruby_complete
-```
-
 Run this in the shell in order to let Ruby Processing know where Processing's Java runtime is installed.
 
 ``` sh
@@ -98,7 +92,7 @@ echo PROCESSING_ROOT: "/Applications/Processing.app/Contents/Java" > ~/.rp5rc
 
 ### Samples
 
-`rp5 unpack samples` will download a bunch of samples to show you how Ruby Processing works.
+`rp5 setup unpack_samples` will download a bunch of samples to show you how Ruby Processing works.
 
 ### Commands
 
