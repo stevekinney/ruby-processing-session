@@ -94,6 +94,8 @@ echo PROCESSING_ROOT: "/Applications/Processing.app/Contents/Java" > ~/.rp5rc
 
 `rp5 setup unpack_samples` will download a bunch of samples to show you how Ruby Processing works.
 
+Then switch to the samples directory with `cd ~/rp_samples` and run a sample with `rp5 run samples/contributed/jwishy.rb`
+
 ### Commands
 
 - `rp5 run [sketch.rb]` will run your sketch.
